@@ -1,3 +1,3 @@
 ---
-license: mit
+license: cc-by-4.0
 ---
