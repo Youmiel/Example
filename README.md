@@ -1,3 +1,36 @@
 ---
 license: cc-by-4.0
 ---
+
+> ⚠ This repository is primarily set up for proof of concept, and is not intended for storing large amounts of designs.
+
+# Catalogue Example
+
+This is a example repository for indexing TMC designs in a dataset.  
+
+
+## Repository Structure
+
+Check [01_structure.md](_docs/en/01_structure.md) for details about the repository structure.
+
+
+## Contributing
+
+> Only adding new designs? Open a discussion, follow the [template](docs/en/02_submission_template.md), and we'll handle the rest.
+>
+> *You can also submit a design via Email, the contact information can be found in the Community tab.*
+
+You can contribute to this dataset in the following ways:
+- **Discussions**: submit a single design, report an issue, or suggest changes. Submission templates can be found [here](docs/en/02_submission_template.md), you can choose a preferred language to organize the submission.
+
+- **Pull Requests**: submit multiple designs or large changes, if you have reviewed all new designs and ensured they are ready to be archived.
+
+All submitted designs will be reviewed before being archived in the dataset.
+
+
+## Acceptance Criteria
+
+We accept all levels of works, as long as it has original contents.
+
+For details, check [04_criteria.md](_docs/en/04_criteria.md)
+
