@@ -34,3 +34,7 @@ We accept all levels of works, as long as it has original contents.
 
 For details, check [04_criteria.md](_docs/en/04_criteria.md)
 
+
+## License
+
+Check [LICENSE.md](LICENSE.md) for details about the license.
