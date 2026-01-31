@@ -1,6 +1,6 @@
 ## Roles
 
-A single person can take multiple roles.
+Please note that all roles are on a voluntary basis. We are unable to offer any form of payment or compensation, and we do not require or expect anyone to undertake specific tasks. Everyone is welcome to contribute freely, as much or as little as they wish.
 
 - **Repository Maintainer**: responsible for maintaining the repository, managing/developing automation tools. Needs to be familiar with Git, the platform, and have coding skills.
 
@@ -26,7 +26,7 @@ The repository maintainer is responsible for:
 
 - Auditing the dataset content regularly to ensure the file structure and categories are consistent.
 - Reviewing and merging pull requests with reviewers.
-
+- **NOT** using any AI agents to manage the repository, and personally understanding the technical impact of every change.
 
 The reviewers is responsible for:
 

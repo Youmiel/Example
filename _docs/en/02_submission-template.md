@@ -13,6 +13,8 @@
 
 **Author(s):** (AAA, BBB, ... Use game names or other names as preferred, the order of names is up to the authors.)
 
+> **Note:** some designs might be re-invented by multiple player independently, this is acceptable and is reviewers' responsibility to note down all known authors here. If the contraption is too simple and widely known (e.g. basic item filter), consider licensing it under public domain (e.g., CC0 1.0).
+
 **Release Date:** YYYY-MM-DD
 
 **License:** (Choose one from the recommended or acceptable licenses in [03_license-recommendation.md](03_license-recommendation.md), e.g., CC BY 4.0, MIT, etc.)
