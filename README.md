@@ -21,9 +21,12 @@ Check [01_structure.md](_docs/en/01_structure.md) for details about the reposito
 > *You can also submit a design via Email, the contact information can be found in the Community tab.*
 
 You can contribute to this dataset in the following ways:
-- **Discussions**: submit a single design, report an issue, or suggest changes. Submission templates can be found [here](docs/en/02_submission_template.md), you can choose a preferred language to organize the submission.
 
-- **Pull Requests**: submit multiple designs or large changes, if you have reviewed all new designs and ensured they are ready to be archived.
+- **Discussions / Issues**: Submit a single design, report an issue, or suggest changes. Submission templates can be found [here](docs/en/02_submission_template.md). You can choose a preferred language for your submission.
+
+- **Pull Requests**: Submit multiple designs or large changes via pull requests, provided you have reviewed all new designs and ensured they are ready to be archived.
+
+- **Take a role**: You can help maintain this dataset. Check available roles in [05_responsibility.md](_docs/en/05_responsibility.md). When people work together and keep things steady, we can do much more. Step in, help out, and build great projects.
 
 All submitted designs will be reviewed before being archived in the dataset.
 
